@@ -31,4 +31,4 @@ while totpacientes<5:
 print("\nPacientes Bajo de Peso : ",cBajoPeso)
 print("\nPacientes Peso Normal : ",cPesoNormal)
 print("\nPacientes Con SobrePeso : ",cSobrePeso)
-print("Pacientes Con Obesidad : ",cObesidad)
+print("\nPacientes Con Obesidad : ",cObesidad)
