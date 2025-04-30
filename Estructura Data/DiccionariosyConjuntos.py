@@ -14,3 +14,6 @@ print(interseccion)
 #numeros_1.discard(4)
 
 #print(numeros_1)
+
+#prueba de comando
+print('Hola mundo')
